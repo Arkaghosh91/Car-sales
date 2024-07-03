@@ -9,4 +9,9 @@ Dataset : Here is the dataset used - https://github.com/Arkaghosh91/Car-sales/bl
 Problem Statement : KPI’s Requirement
 The dashboard should provide real-time insights into key performance indicators (KPIs) related to our sales data. This will enable us to make informed decisions, monitor our progress, and identify trends and opportunities for growth.
 
+Conclusion : This project harnesses Power BI capabilities to empower stakeholders with a dynamic platform for sales data analysis.
+The derived insights lead to informed decisions & refined sales strategies.
+
+
+
 
